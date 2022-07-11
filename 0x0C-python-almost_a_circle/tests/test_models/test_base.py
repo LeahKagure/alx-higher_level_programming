@@ -11,9 +11,9 @@
 """
 import os
 import unittest
-from models.base import Base
-from models.rectangle import Rectangle
-from models.square import Square
+import models.base
+import models.square
+import models.rectangle
 
 
 class TestBase_instantiation(unittest.TestCase):
