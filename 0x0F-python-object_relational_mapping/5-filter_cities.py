@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/python3
 """
 Displays all cities of a given state from the
