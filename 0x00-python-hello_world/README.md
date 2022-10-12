@@ -6,7 +6,7 @@
 5. **Print string** - Complete the *source code* in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters
 6. **Play with string** - Complete the *source code* to print `Welcome to Holberton School!`
 7. **Copy-Cut-Paste** - Complete this *source code*
-8. **Create a new sentence** - COmplete the *source code* to print `object-oriented programming with Python`, followed by a new line
+8. **Create a new sentence** - Complete the *source code* to print `object-oriented programming with Python`, followed by a new line
 9. **Easter Egg** - Write a Python script that prints "The Zen of Python"' by Tim Peters, followed by a new line
 10. **Linked list cycle** - Write a function in C that checks if a singly linked list has a cycle in it
 11. **Hello, write** - Write a Python script that prints exac;ty `and that piece of art is useful - Dora Korpar, 2015-10-10`, followed by a new line
